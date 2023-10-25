@@ -1,1 +1,486 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"<strong>Celebrate the start of Summer with NEW TREATS<\/strong>","heading_size":"h2"}},"button":{"type":"buttons","settings":{"button_label_1":"👍 SUBSCRIBE NOW","button_link_1":"shopify:\/\/products\/umami-snack-box","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","button"],"disabled":true,"custom_css":["h2 {font-family: monospace; font-weight: bold;}",".banner__box {\/* background: rgb(138, 43, 0, 0.5); *\/ margin-top: 120px; margin-left: -60px;}",".banner__buttons {font-weight: bold;}",".banner__buttons a {width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",".banner__heading {text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000, 1px -1px 0 #000, 0px 1px 0 #000, 0-1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;}","@media screen and (max-width: 999px) {.banner__box {margin-left: 0px; }}"],"settings":{"image":"shopify:\/\/shop_images\/present_bg_2x_3.png","image_overlay_opacity":0,"image_height":"large","desktop_content_position":"middle-left","show_text_box":false,"desktop_content_alignment":"left","color_scheme":"scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":true}},"f75361a5-1ad4-4f36-982b-37306fcd52f1":{"type":"image-with-text","blocks":{"template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-heading-1":{"type":"heading","settings":{"heading":"<strong>Celebrate the start of Summer with NEW TREATS<\/strong>","heading_size":"h2"}},"template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-button-1":{"type":"button","settings":{"button_label":"👍 SUBSCRIBE NOW","button_link":"shopify:\/\/products\/umami-snack-box","button_style_secondary":false}}},"block_order":["template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-heading-1","template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-button-1"],"custom_css":["h2 {color: #fff; width: 200%;}",".image-with-text__content {margin-left: -100px;}",".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",".global-media-settings {border: none;}",".image-with-text__heading {-webkit-text-stroke: 1px #000;}","@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; } h2 {width: 100%; }}"],"settings":{"image":"shopify:\/\/shop_images\/TokyoSnackBox.png","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"bottom","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"center","padding_top":36,"padding_bottom":36}},"e5e54f5e-9081-4b37-a69b-8a85bdffaaa2":{"type":"image-banner","blocks":{"template--21144367268162__e5e54f5e-9081-4b37-a69b-8a85bdffaaa2-heading-1":{"type":"heading","settings":{"heading":"<em><strong>TokyoMeal Mission<\/strong><\/em>","heading_size":"h1"}},"a17d895f-7f1e-4335-8958-f81fc8661b67":{"type":"text","settings":{"text":"<strong>We don’t want to just share the coolest and craziest Japanese snacks and candy every month -we want to give you a taste of modern life in Japan!<\/strong>","text_style":"body"}}},"block_order":["template--21144367268162__e5e54f5e-9081-4b37-a69b-8a85bdffaaa2-heading-1","a17d895f-7f1e-4335-8958-f81fc8661b67"],"custom_css":["h2 {color: #ff752b; -webkit-text-stroke: 1px #000;}","p {-webkit-text-stroke: 1px #fff;}",".banner {margin: auto; max-width: 1400px;}",".banner__box {padding: 0; color: black; font-weight: 600; font-size: 21px; line-height: 35px; margin: 1rem;}",".media {background-color: rgba(var(--color-foreground), 0);}","@media screen and (max-width: 999px) {.banner {display: none; }}","img {display: block; width: 100%; height: auto; object-fit: initial; text-align: center; min-height: 848px;}"],"settings":{"image":"shopify:\/\/shop_images\/mission-bg-desktop.e5a8c740.png","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":false}},"a1741ca8-0b16-4de1-b1eb-4a06782f997a":{"type":"image-banner","blocks":{"template--21144367268162__a1741ca8-0b16-4de1-b1eb-4a06782f997a-heading-1":{"type":"heading","settings":{"heading":"<em><strong>TokyoMeal Mission<\/strong><\/em>","heading_size":"h1"}},"template--21144367268162__a1741ca8-0b16-4de1-b1eb-4a06782f997a-text-1":{"type":"text","settings":{"text":"We don’t want to just share the coolest and craziest Japanese snacks and candy every month -we want to give you a taste of modern life in Japan!","text_style":"body"}}},"block_order":["template--21144367268162__a1741ca8-0b16-4de1-b1eb-4a06782f997a-heading-1","template--21144367268162__a1741ca8-0b16-4de1-b1eb-4a06782f997a-text-1"],"custom_css":["p {-webkit-text-stroke: 1px #fff;}","h2 {color: #ff752b; -webkit-text-stroke: 1px #000;}",".banner__box {padding: 0; color: black; font-weight: 600; font-size: 21px; line-height: 35px; margin: 1rem;}",".media {background-color: rgba(var(--color-foreground), 0);}","@media screen and (min-width: 1000px) {.banner {display: none; }}"],"settings":{"image":"shopify:\/\/shop_images\/mission-bg-top-mobile_1.webp","image_2":"shopify:\/\/shop_images\/mission-bg-bottom-mobile.webp","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"0d52df3c-a0d2-4f4c-a151-e2b6ed93a578":{"type":"rich-text","blocks":{"template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-heading-1":{"type":"heading","settings":{"heading":"Talk about your brand","heading_size":"h1"}},"template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-text-1":{"type":"text","settings":{"text":"<h3>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/h3><h3><\/h3><h3>product, make announcements, or welcome customers to your store.<\/h3><h3><\/h3>"}}},"block_order":["template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-heading-1","template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-text-1"],"custom_css":[],"settings":{"bg_image":"shopify:\/\/shop_images\/products_bg_top.png","desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-f67772bd-f796-423c-877c-acbbc80763d4","full_width":true,"padding_top":40,"padding_bottom":52}},"28f19d27-d505-45ef-a62b-69021c1e9486":{"type":"image-with-text","blocks":{"template--21144367268162__28f19d27-d505-45ef-a62b-69021c1e9486-heading-1":{"type":"heading","settings":{"heading":"<strong>Image with text<\/strong>","heading_size":"h1"}},"template--21144367268162__28f19d27-d505-45ef-a62b-69021c1e9486-text-1":{"type":"text","settings":{"text":"<h2><strong>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/strong><\/h2>","text_style":"body"}}},"block_order":["template--21144367268162__28f19d27-d505-45ef-a62b-69021c1e9486-heading-1","template--21144367268162__28f19d27-d505-45ef-a62b-69021c1e9486-text-1"],"custom_css":[".image-with-text__heading {-webkit-text-stroke: 1px #fff;}",".image-with-text__text {-webkit-text-stroke: 1px #fff;}",".image-with-text__content {border-radius: 5px;}",".image-with-text__media {border: none;}"],"settings":{"image":"shopify:\/\/shop_images\/Flag_of_Japan_svg.png","height":"small","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9","image_behavior":"none","mobile_content_alignment":"left","padding_top":48,"padding_bottom":28}},"f23bae99-e6da-4104-be14-9fc1fdaac021":{"type":"image-with-text","blocks":{"template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-heading-1":{"type":"heading","settings":{"heading":"<strong>Image with text<\/strong>","heading_size":"h1"}},"template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-text-1":{"type":"text","settings":{"text":"<h2><strong>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/strong><\/h2>","text_style":"body"}},"template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-button-1":{"type":"button","settings":{"button_label":"SUBSCRIBE 👍","button_link":"shopify:\/\/products\/umami-snack-box","button_style_secondary":false}}},"block_order":["template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-heading-1","template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-text-1","template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-button-1"],"custom_css":[".image-with-text__heading {-webkit-text-stroke: 1px #fff;}",".image-with-text__text {-webkit-text-stroke: 1px #fff;}",".image-with-text__content {border-radius: 5px;}",".image-with-text__media {background: none;}"],"settings":{"image":"shopify:\/\/shop_images\/japanese_ojisan.jpg","height":"small","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9","image_behavior":"none","mobile_content_alignment":"left","padding_top":28,"padding_bottom":36}},"bef35317-da41-405d-8cc4-9514978aaa07":{"type":"rich-text","blocks":{"template--21144367268162__bef35317-da41-405d-8cc4-9514978aaa07-heading-1":{"type":"heading","settings":{"heading":"Talk about your brand","heading_size":"h1"}},"template--21144367268162__bef35317-da41-405d-8cc4-9514978aaa07-text-1":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p><p><\/p><p>l<\/p><p><\/p>"}}},"block_order":["template--21144367268162__bef35317-da41-405d-8cc4-9514978aaa07-heading-1","template--21144367268162__bef35317-da41-405d-8cc4-9514978aaa07-text-1"],"disabled":true,"settings":{"bg_image":"shopify:\/\/shop_images\/pxfuel.jpg","desktop_content_position":"center","content_alignment":"center","color_scheme":"inverse","full_width":true,"padding_top":40,"padding_bottom":52}},"32c21496-7d16-406e-9a55-9bfbc1d2ed73":{"type":"video","settings":{"heading":"<em><strong>いつもお買い上げいただきありがとうございます。<\/strong><\/em>","heading_size":"h1","enable_video_looping":false,"video_url":"https:\/\/www.youtube.com\/watch?v=warqZK6IOlA&ab_channel=%E3%82%AA%E3%83%BC%E3%82%A4%E3%82%B7%E5%8A%A0%E8%97%A4%E3%81%AE%E3%83%94%E3%82%B6%E3%83%A9%E3%82%B8%E3%82%AA","cover_image":"shopify:\/\/shop_images\/image2.jpg","description":"","full_width":false,"color_scheme":"scheme-f67772bd-f796-423c-877c-acbbc80763d4","padding_top":36,"padding_bottom":36}},"02bb7684-2ee5-4191-a619-9c542a5ebe12":{"type":"multicolumn","blocks":{"template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or <\/p>","link_label":"","link":""}},"template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or <\/p>","link_label":"","link":""}},"template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg","title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or <\/p>","link_label":"","link":""}}},"block_order":["template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-1","template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-2","template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-3"],"settings":{"title":"","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"scheme-f67772bd-f796-423c-877c-acbbc80763d4","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f":{"type":"multicolumn","blocks":{"template--21144367268162__ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f-column-1":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"template--21144367268162__ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f-column-2":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"2e1f7916-beab-4237-a7b5-ed7c7b84dc18":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--21144367268162__ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f-column-1","template--21144367268162__ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f-column-2","2e1f7916-beab-4237-a7b5-ed7c7b84dc18"],"settings":{"title":"Multicolumn","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"none","button_label":"","button_link":"shopify:\/\/products\/umami-snack-box","color_scheme":"inverse","columns_mobile":"1","swipe_on_mobile":false,"padding_top":48,"padding_bottom":100}}},"order":["image_banner","f75361a5-1ad4-4f36-982b-37306fcd52f1","e5e54f5e-9081-4b37-a69b-8a85bdffaaa2","a1741ca8-0b16-4de1-b1eb-4a06782f997a","0d52df3c-a0d2-4f4c-a151-e2b6ed93a578","28f19d27-d505-45ef-a62b-69021c1e9486","f23bae99-e6da-4104-be14-9fc1fdaac021","bef35317-da41-405d-8cc4-9514978aaa07","32c21496-7d16-406e-9a55-9bfbc1d2ed73","02bb7684-2ee5-4191-a619-9c542a5ebe12","ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Celebrate the start of Summer with NEW TREATS<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "👍 SUBSCRIBE NOW",
+            "button_link_1": "shopify:\/\/products\/umami-snack-box",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-family: monospace; font-weight: bold;}",
+        ".banner__box {\/* background: rgb(138, 43, 0, 0.5); *\/ margin-top: 120px; margin-left: -60px;}",
+        ".banner__buttons {font-weight: bold;}",
+        ".banner__buttons a {width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
+        ".banner__heading {text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000, 1px -1px 0 #000, 0px 1px 0 #000, 0-1px 0 #000, -1px 0 0 #000, 1px 0 0 #000;}",
+        "@media screen and (max-width: 999px) {.banner__box {margin-left: 0px; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/present_bg_2x_3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "f75361a5-1ad4-4f36-982b-37306fcd52f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Celebrate the start of Summer with NEW TREATS<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "👍 SUBSCRIBE NOW",
+            "button_link": "shopify:\/\/products\/umami-snack-box",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-heading-1",
+        "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-button-1"
+      ],
+      "custom_css": [
+        "h2 {color: #fff; width: 200%;}",
+        ".image-with-text__content {margin-left: -100px;}",
+        ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
+        ".global-media-settings {border: none;}",
+        ".image-with-text__heading {-webkit-text-stroke: 1px #000;}",
+        "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; } h2 {width: 100%; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e5e54f5e-9081-4b37-a69b-8a85bdffaaa2": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21144367268162__e5e54f5e-9081-4b37-a69b-8a85bdffaaa2-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>TokyoMeal Mission<\/strong><\/em>",
+            "heading_size": "h1"
+          }
+        },
+        "a17d895f-7f1e-4335-8958-f81fc8661b67": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>We don’t want to just share the coolest and craziest Japanese snacks and candy every month -we want to give you a taste of modern life in Japan!<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__e5e54f5e-9081-4b37-a69b-8a85bdffaaa2-heading-1",
+        "a17d895f-7f1e-4335-8958-f81fc8661b67"
+      ],
+      "custom_css": [
+        "h2 {color: #ff752b; -webkit-text-stroke: 1px #000;}",
+        "p {-webkit-text-stroke: 1px #fff;}",
+        ".banner {margin: auto; max-width: 1400px;}",
+        ".banner__box {padding: 0; color: black; font-weight: 600; font-size: 21px; line-height: 35px; margin: 1rem;}",
+        ".media {background-color: rgba(var(--color-foreground), 0);}",
+        "@media screen and (max-width: 999px) {.banner {display: none; }}",
+        "img {display: block; width: 100%; height: auto; object-fit: initial; text-align: center; min-height: 848px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mission-bg-desktop.e5a8c740.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "a1741ca8-0b16-4de1-b1eb-4a06782f997a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21144367268162__a1741ca8-0b16-4de1-b1eb-4a06782f997a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>TokyoMeal Mission<\/strong><\/em>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21144367268162__a1741ca8-0b16-4de1-b1eb-4a06782f997a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "We don’t want to just share the coolest and craziest Japanese snacks and candy every month -we want to give you a taste of modern life in Japan!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__a1741ca8-0b16-4de1-b1eb-4a06782f997a-heading-1",
+        "template--21144367268162__a1741ca8-0b16-4de1-b1eb-4a06782f997a-text-1"
+      ],
+      "custom_css": [
+        "p {-webkit-text-stroke: 1px #fff;}",
+        "h2 {color: #ff752b; -webkit-text-stroke: 1px #000;}",
+        ".banner__box {padding: 0; color: black; font-weight: 600; font-size: 21px; line-height: 35px; margin: 1rem;}",
+        ".media {background-color: rgba(var(--color-foreground), 0);}",
+        "@media screen and (min-width: 1000px) {.banner {display: none; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mission-bg-top-mobile_1.webp",
+        "image_2": "shopify:\/\/shop_images\/mission-bg-bottom-mobile.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "0d52df3c-a0d2-4f4c-a151-e2b6ed93a578": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/h3><h3><\/h3><h3>product, make announcements, or welcome customers to your store.<\/h3><h3><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-heading-1",
+        "template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-text-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "bg_image": "shopify:\/\/shop_images\/products_bg_top.png",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-f67772bd-f796-423c-877c-acbbc80763d4",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "28f19d27-d505-45ef-a62b-69021c1e9486": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21144367268162__28f19d27-d505-45ef-a62b-69021c1e9486-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Image with text<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21144367268162__28f19d27-d505-45ef-a62b-69021c1e9486-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/strong><\/h2>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__28f19d27-d505-45ef-a62b-69021c1e9486-heading-1",
+        "template--21144367268162__28f19d27-d505-45ef-a62b-69021c1e9486-text-1"
+      ],
+      "custom_css": [
+        ".image-with-text__heading {-webkit-text-stroke: 1px #fff;}",
+        ".image-with-text__text {-webkit-text-stroke: 1px #fff;}",
+        ".image-with-text__content {border-radius: 5px;}",
+        ".image-with-text__media {border: none;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Flag_of_Japan_svg.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 48,
+        "padding_bottom": 28
+      }
+    },
+    "f23bae99-e6da-4104-be14-9fc1fdaac021": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Image with text<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/strong><\/h2>",
+            "text_style": "body"
+          }
+        },
+        "template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SUBSCRIBE 👍",
+            "button_link": "shopify:\/\/products\/umami-snack-box",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-heading-1",
+        "template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-text-1",
+        "template--21144367268162__f23bae99-e6da-4104-be14-9fc1fdaac021-button-1"
+      ],
+      "custom_css": [
+        ".image-with-text__heading {-webkit-text-stroke: 1px #fff;}",
+        ".image-with-text__text {-webkit-text-stroke: 1px #fff;}",
+        ".image-with-text__content {border-radius: 5px;}",
+        ".image-with-text__media {background: none;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/japanese_ojisan.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "bef35317-da41-405d-8cc4-9514978aaa07": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21144367268162__bef35317-da41-405d-8cc4-9514978aaa07-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--21144367268162__bef35317-da41-405d-8cc4-9514978aaa07-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p><p><\/p><p>l<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__bef35317-da41-405d-8cc4-9514978aaa07-heading-1",
+        "template--21144367268162__bef35317-da41-405d-8cc4-9514978aaa07-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg_image": "shopify:\/\/shop_images\/pxfuel.jpg",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "32c21496-7d16-406e-9a55-9bfbc1d2ed73": {
+      "type": "video",
+      "settings": {
+        "heading": "<em><strong>いつもお買い上げいただきありがとうございます。<\/strong><\/em>",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=warqZK6IOlA&ab_channel=%E3%82%AA%E3%83%BC%E3%82%A4%E3%82%B7%E5%8A%A0%E8%97%A4%E3%81%AE%E3%83%94%E3%82%B6%E3%83%A9%E3%82%B8%E3%82%AA",
+        "cover_image": "shopify:\/\/shop_images\/image2.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "scheme-f67772bd-f796-423c-877c-acbbc80763d4",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "02bb7684-2ee5-4191-a619-9c542a5ebe12": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-1",
+        "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-2",
+        "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-f67772bd-f796-423c-877c-acbbc80763d4",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21144367268162__ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21144367268162__ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2e1f7916-beab-4237-a7b5-ed7c7b84dc18": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21144367268162__ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f-column-1",
+        "template--21144367268162__ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f-column-2",
+        "2e1f7916-beab-4237-a7b5-ed7c7b84dc18"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify:\/\/products\/umami-snack-box",
+        "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "f75361a5-1ad4-4f36-982b-37306fcd52f1",
+    "e5e54f5e-9081-4b37-a69b-8a85bdffaaa2",
+    "a1741ca8-0b16-4de1-b1eb-4a06782f997a",
+    "0d52df3c-a0d2-4f4c-a151-e2b6ed93a578",
+    "28f19d27-d505-45ef-a62b-69021c1e9486",
+    "f23bae99-e6da-4104-be14-9fc1fdaac021",
+    "bef35317-da41-405d-8cc4-9514978aaa07",
+    "32c21496-7d16-406e-9a55-9bfbc1d2ed73",
+    "02bb7684-2ee5-4191-a619-9c542a5ebe12",
+    "ff8599ad-8fc2-42e7-84b8-8d8ec3e3ea2f"
+  ]
+}
