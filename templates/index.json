@@ -248,7 +248,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Flag_of_Japan_svg.png",
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -300,7 +300,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/japanese_ojisan.jpg",
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
