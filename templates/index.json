@@ -1,5 +1,35 @@
 {
   "sections": {
+    "70deb6eb-dc53-458b-b0f1-49f971b206b8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21499553972546__70deb6eb-dc53-458b-b0f1-49f971b206b8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--21499553972546__70deb6eb-dc53-458b-b0f1-49f971b206b8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements,<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21499553972546__70deb6eb-dc53-458b-b0f1-49f971b206b8-heading-1",
+        "template--21499553972546__70deb6eb-dc53-458b-b0f1-49f971b206b8-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -471,6 +501,7 @@
     }
   },
   "order": [
+    "70deb6eb-dc53-458b-b0f1-49f971b206b8",
     "image_banner",
     "f75361a5-1ad4-4f36-982b-37306fcd52f1",
     "e5e54f5e-9081-4b37-a69b-8a85bdffaaa2",
