@@ -13,7 +13,7 @@
   overflow-y: auto;
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 1000px) {
   .facets-container > * + * {
     margin-top: 0;
   }
@@ -945,7 +945,7 @@ input.mobile-facets__checkbox {
   display: block;
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 1000px) {
   .facets-vertical {
     display: flex;
   }
@@ -1090,7 +1090,7 @@ input.mobile-facets__checkbox {
   }
 }
 
-@media screen and (min-width: 750px) and (max-width: 989px) {
+@media screen and (min-width: 1000px) and (max-width: 989px) {
   .facets-vertical .active-facets__button {
     padding: 1rem;
     margin-bottom: 0;

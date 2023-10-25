@@ -11,13 +11,13 @@ slider-component.slider-component-full-width {
   --desktop-margin-left-first-item: 1.5rem;
 }
 
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 999px) {
   slider-component.page-width {
     padding: 0 1.5rem;
   }
 }
 
-@media screen and (min-width: 749px) and (max-width: 990px) {
+@media screen and (min-width: 999px) and (max-width: 990px) {
   slider-component.page-width {
     padding: 0 5rem;
   }
@@ -42,7 +42,7 @@ slider-component.slider-component-full-width {
   visibility: hidden;
 }
 
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 999px) {
   .slider.slider--mobile {
     position: relative;
     flex-wrap: inherit;
@@ -76,7 +76,7 @@ slider-component.slider-component-full-width {
   }
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 1000px) {
   .slider.slider--tablet-up {
     position: relative;
     flex-wrap: inherit;
@@ -266,7 +266,7 @@ slider-component.slider-component-full-width {
   min-width: 4.4rem;
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 1000px) {
   .slider-counter--dots {
     margin: 0 1.2rem;
   }
@@ -276,7 +276,7 @@ slider-component.slider-component-full-width {
   padding: 1rem;
 }
 
-@media screen and (max-width: 749px) {
+@media screen and (max-width: 999px) {
   .slider-counter__link {
     padding: 0.7rem;
   }
@@ -348,7 +348,7 @@ slider-component.slider-component-full-width {
   }
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 1000px) {
   .slider--mobile + .slider-buttons {
     display: none;
   }
