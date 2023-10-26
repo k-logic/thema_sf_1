@@ -118,7 +118,7 @@
         "h1 {font-size: 80px; letter-spacing: 0.75px; font-weight: bold; color: rgb(254, 85, 0); line-height: 0px;}",
         "h2 {font-weight: 800; font-size: 135px; line-height: 0px; color: rgb(254, 85, 0);}",
         "p {color: #000; -webkit-text-stroke: 1px #fff; font-size: 20px;}",
-        "@media screen and (max-width: 999px) {.image-with-text{display: none; }}"
+        "@media screen and (max-width: 999px) {.image-with-text {display: none; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
@@ -157,7 +157,7 @@
         "content_alignment": "center",
         "color_scheme": "scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9",
         "full_width": true,
-        "padding_top": 12,
+        "padding_top": 32,
         "padding_bottom": 0
       }
     },
@@ -178,7 +178,8 @@
       ],
       "custom_css": [
         ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
-        ".global-media-settings {border: none;}"
+        ".global-media-settings {border: none;}",
+        "@media screen and (min-width: 1000px) {.image-with-text {display: none; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
