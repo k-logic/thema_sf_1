@@ -117,9 +117,9 @@
         ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
         ".global-media-settings {border: none;}",
         "p {color: #000; -webkit-text-stroke: 1px #fff; font-size: 20px;}",
-        "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; }}",
         "h1 {font-size: 80px; letter-spacing: 0.75px; font-weight: bold; color: rgb(254, 85, 0); line-height: 0px;}",
-        "h2 {font-weight: 800; font-size: 135px; line-height: 0px; color: rgb(254, 85, 0);}"
+        "h2 {font-weight: 800; font-size: 135px; line-height: 0px; color: rgb(254, 85, 0);}",
+        "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
@@ -354,6 +354,51 @@
         "padding_bottom": 36
       }
     },
+    "552cd279-882d-4a68-b61c-0fd530bf773a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--21499553972546__552cd279-882d-4a68-b61c-0fd530bf773a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--21499553972546__552cd279-882d-4a68-b61c-0fd530bf773a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21499553972546__552cd279-882d-4a68-b61c-0fd530bf773a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SUBSCRIBE 👍",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21499553972546__552cd279-882d-4a68-b61c-0fd530bf773a-heading-1",
+        "template--21499553972546__552cd279-882d-4a68-b61c-0fd530bf773a-text-1",
+        "template--21499553972546__552cd279-882d-4a68-b61c-0fd530bf773a-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "bef35317-da41-405d-8cc4-9514978aaa07": {
       "type": "rich-text",
       "blocks": {
@@ -520,6 +565,7 @@
     "0d52df3c-a0d2-4f4c-a151-e2b6ed93a578",
     "28f19d27-d505-45ef-a62b-69021c1e9486",
     "f23bae99-e6da-4104-be14-9fc1fdaac021",
+    "552cd279-882d-4a68-b61c-0fd530bf773a",
     "bef35317-da41-405d-8cc4-9514978aaa07",
     "32c21496-7d16-406e-9a55-9bfbc1d2ed73",
     "02bb7684-2ee5-4191-a619-9c542a5ebe12",
