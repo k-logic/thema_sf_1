@@ -379,7 +379,7 @@
     "32c21496-7d16-406e-9a55-9bfbc1d2ed73": {
       "type": "video",
       "settings": {
-        "heading": "<strong>ようこそ！毎度ありがとうございます。<\/strong>",
+        "heading": "<strong>ようこそ！毎度ありがとうございます。<><\/strong>",
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=warqZK6IOlA&ab_channel=%E3%82%AA%E3%83%BC%E3%82%A4%E3%82%B7%E5%8A%A0%E8%97%A4%E3%81%AE%E3%83%94%E3%82%B6%E3%83%A9%E3%82%B8%E3%82%AA",
