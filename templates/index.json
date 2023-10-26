@@ -116,7 +116,7 @@
         ".image-with-text__content {margin-left: -100px;}",
         ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
         ".global-media-settings {border: none;}",
-        "p {color: #000; -webkit-text-stroke: 1px #fff;}",
+        "p {color: #000; -webkit-text-stroke: 1px #fff; font-size: 20px;}",
         "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; }}",
         "h1 {font-size: 80px; letter-spacing: 0.75px; font-weight: bold; color: rgb(254, 85, 0); line-height: 0px;}",
         "h2 {font-weight: 800; font-size: 135px; line-height: 0px; color: rgb(254, 85, 0);}"
