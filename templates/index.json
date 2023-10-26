@@ -118,8 +118,8 @@
         ".global-media-settings {border: none;}",
         ".image-with-text__heading {-webkit-text-stroke: 1px #000;}",
         "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; }}",
-        "h1 {font-size: 80px; line-height: 110px; letter-spacing: 0.75px; font-weight: bold;}",
-        "h2 {font-weight: 800; font-size: 135px; line-height: 110px;}"
+        "h1 {font-size: 80px; line-height: 110px; letter-spacing: 0.75px; font-weight: bold; color: rgb(254, 85, 0);}",
+        "h2 {font-weight: 800; font-size: 135px; line-height: 110px; color: rgb(254, 85, 0);}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
