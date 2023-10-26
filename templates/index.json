@@ -179,6 +179,10 @@
       "block_order": [
         "template--21499553972546__552cd279-882d-4a68-b61c-0fd530bf773a-button-1"
       ],
+      "custom_css": [
+        ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
+        ".global-media-settings {border: none;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
         "height": "adapt",
