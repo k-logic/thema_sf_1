@@ -117,7 +117,8 @@
         ".global-media-settings {border: none;}",
         "h1 {font-size: 80px; letter-spacing: 0.75px; font-weight: bold; color: rgb(254, 85, 0); line-height: 0px;}",
         "h2 {font-weight: 800; font-size: 135px; line-height: 0px; color: rgb(254, 85, 0);}",
-        "p {color: #000; -webkit-text-stroke: 1px #fff; font-size: 20px;}"
+        "p {color: #000; -webkit-text-stroke: 1px #fff; font-size: 20px;}",
+        "@media screen and (max-width: 999px) {.image-with-text{display: none; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
