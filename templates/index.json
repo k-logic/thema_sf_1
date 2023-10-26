@@ -117,7 +117,7 @@
         ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
         ".global-media-settings {border: none;}",
         ".image-with-text__heading {-webkit-text-stroke: 1px #000;}",
-        "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; } h2 {width: 100%; }}"
+        "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; } h2 {}}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
