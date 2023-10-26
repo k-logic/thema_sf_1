@@ -60,6 +60,8 @@
       "disabled": true,
       "custom_css": [
         "h2 {font-family: monospace; font-weight: bold;}",
+        "img {position: inherit;}",
+        ".image-with-text__content . {min-width: 560px;}",
         ".banner__box {margin-top: 120px; margin-left: -60px;}",
         ".banner__buttons {font-weight: bold;}",
         ".banner__buttons a {width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
