@@ -155,6 +155,10 @@
         "template--21499553972546__9622bdb3-0c62-4fde-b363-1827ee717e87-heading-1",
         "template--21499553972546__9622bdb3-0c62-4fde-b363-1827ee717e87-text-1"
       ],
+      "custom_css": [
+        "p {color: #000; -webkit-text-stroke: 1px #fff; font-size: 20px;}",
+        "h1 {font-size: 38px; line-height: 48px;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
