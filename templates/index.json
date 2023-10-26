@@ -148,7 +148,7 @@
         "template--21499553972546__9622bdb3-0c62-4fde-b363-1827ee717e87-text-1"
       ],
       "custom_css": [
-        "p {width: 90%; color: rgb(4, 41, 71); margin: 2rem 0.5rem -1rem; font-size: 14px !important; line-height: 24px !important; max-width: 340px !important;}",
+        "p {width: 90%; color: rgb(4, 41, 71); margin: 2rem 0.5rem -1rem; font-size: 14px; line-height: 24px; max-width: 340px;}",
         "h1 {font-size: 38px; line-height: 48px; color: rgb(254, 85, 0); font-weight: bold;}"
       ],
       "settings": {
