@@ -134,6 +134,36 @@
         "padding_bottom": 36
       }
     },
+    "9622bdb3-0c62-4fde-b363-1827ee717e87": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21499553972546__9622bdb3-0c62-4fde-b363-1827ee717e87-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bite into Japan!",
+            "heading_size": "h1"
+          }
+        },
+        "template--21499553972546__9622bdb3-0c62-4fde-b363-1827ee717e87-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy Limited Edition & Exclusive Japanese Snack Boxes delivered to your door by TokyoTreat!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21499553972546__9622bdb3-0c62-4fde-b363-1827ee717e87-heading-1",
+        "template--21499553972546__9622bdb3-0c62-4fde-b363-1827ee717e87-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-ef30b52c-bd1f-4c14-846b-9dbf7d464de9",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
     "552cd279-882d-4a68-b61c-0fd530bf773a": {
       "type": "image-with-text",
       "blocks": {
@@ -543,6 +573,7 @@
     "70deb6eb-dc53-458b-b0f1-49f971b206b8",
     "image_banner",
     "f75361a5-1ad4-4f36-982b-37306fcd52f1",
+    "9622bdb3-0c62-4fde-b363-1827ee717e87",
     "552cd279-882d-4a68-b61c-0fd530bf773a",
     "e5e54f5e-9081-4b37-a69b-8a85bdffaaa2",
     "a1741ca8-0b16-4de1-b1eb-4a06782f997a",
