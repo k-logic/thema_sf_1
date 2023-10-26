@@ -92,6 +92,7 @@
         },
         "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<strong>Celebrate the start of Summer with NEW TREATS<\/strong>",
             "heading_size": "h2"
@@ -112,7 +113,6 @@
         "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-button-1"
       ],
       "custom_css": [
-        "h2 {color: #fff; width: 200%;}",
         ".image-with-text__content {margin-left: -100px;}",
         ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
         ".global-media-settings {border: none;}",
