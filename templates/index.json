@@ -150,6 +150,7 @@
         "template--21499553972546__552cd279-882d-4a68-b61c-0fd530bf773a-button-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
