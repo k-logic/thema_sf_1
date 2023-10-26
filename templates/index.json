@@ -113,6 +113,8 @@
         "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-button-1"
       ],
       "custom_css": [
+        "img {position: inherit;}",
+        ".image-with-text__media {}",
         ".image-with-text__content {min-width: 560px;}",
         ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
         ".global-media-settings {border: none;}",
