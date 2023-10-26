@@ -140,7 +140,7 @@
         "template--21499553972546__9622bdb3-0c62-4fde-b363-1827ee717e87-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h1>Bite into Japan!<\/h1><p>Enjoy Limited Edition & Exclusive Japanese Snack Boxes delivered to your door by TokyoTreat!<\/p>"
+            "text": "<h1>Bite into Japan!<\/h1><p><strong>Enjoy Limited Edition & Exclusive Japanese Snack Boxes delivered to your door by TokyoTreat!<\/strong><\/p>"
           }
         }
       },
@@ -149,7 +149,7 @@
       ],
       "custom_css": [
         "h1 {font-size: 38px; line-height: 38px; color: rgb(254, 85, 0); font-weight: bold;}",
-        "p {width: 90%; color: rgb(4, 41, 71); margin: 2rem 0.5rem -1rem; font-size: 17px; line-height: 24px; max-width: 340px;}"
+        "p {width: 90%; color: rgb(4, 41, 71); margin: 2rem 0.5rem -1rem; font-size: 17px; line-height: 24px; max-width: 340px; color: #000; -webkit-text-stroke: 1px #fff;}"
       ],
       "settings": {
         "desktop_content_position": "center",
