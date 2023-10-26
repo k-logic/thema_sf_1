@@ -149,7 +149,7 @@
       ],
       "custom_css": [
         "p {color: #000; -webkit-text-stroke: 1px #fff; font-size: 20px;}",
-        "h1 {font-size: 38px; line-height: 48px; color: rgb(254, 85, 0); font-weight: bold;}"
+        "h1 {font-size: 38px; line-height: 31px; color: rgb(254, 85, 0); font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "center",
