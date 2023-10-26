@@ -83,6 +83,13 @@
     "f75361a5-1ad4-4f36-982b-37306fcd52f1": {
       "type": "image-with-text",
       "blocks": {
+        "a344926b-f2f5-4ef4-8d27-2820021bfffc": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>Bite into<\/strong><\/h1><h1><strong>Japan<\/strong><\/h1><p>Enjoy Limited Edition & Exclusive Japanese Snack Boxes delivered to your door by TokyoTreat!<\/p>",
+            "text_style": "body"
+          }
+        },
         "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-heading-1": {
           "type": "heading",
           "settings": {
@@ -100,6 +107,7 @@
         }
       },
       "block_order": [
+        "a344926b-f2f5-4ef4-8d27-2820021bfffc",
         "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-heading-1",
         "template--21144367268162__f75361a5-1ad4-4f36-982b-37306fcd52f1-button-1"
       ],
