@@ -150,7 +150,8 @@
       ],
       "custom_css": [
         "h1 {font-size: 38px; line-height: 38px; color: rgb(254, 85, 0); font-weight: bold;}",
-        "p {width: 90%; color: rgb(4, 41, 71); margin: 2rem 0.5rem -1rem; font-size: 17px; line-height: 24px; color: #000; -webkit-text-stroke: 1px #fff;}"
+        "p {width: 90%; color: rgb(4, 41, 71); margin: 2rem 0.5rem -1rem; font-size: 17px; line-height: 24px; color: #000; -webkit-text-stroke: 1px #fff;}",
+        "@media screen and (min-width: 1000px) {.rich-text {display: none; }}"
       ],
       "settings": {
         "desktop_content_position": "center",
