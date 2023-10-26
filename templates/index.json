@@ -86,7 +86,7 @@
         "a344926b-f2f5-4ef4-8d27-2820021bfffc": {
           "type": "text",
           "settings": {
-            "text": "<h1><strong>Bite into<\/strong><\/h1><h1><strong>Japan<\/strong><\/h1><p>Enjoy Limited Edition & Exclusive Japanese Snack Boxes delivered to your door by TokyoTreat!<\/p>",
+            "text": "<h1><strong>Bite into<\/strong><\/h1><h2><strong>Japan<\/strong><\/h2><p>Enjoy Limited Edition & Exclusive Japanese Snack Boxes delivered to your door by TokyoTreat!<\/p>",
             "text_style": "body"
           }
         },
@@ -117,7 +117,7 @@
         ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
         ".global-media-settings {border: none;}",
         ".image-with-text__heading {-webkit-text-stroke: 1px #000;}",
-        "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; } h2 {}}"
+        "@media screen and (max-width: 999px) {.image-with-text__content {margin-left: 0px; } h2 {font-weight: 800; font-size: 135px; line-height: 110px; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
