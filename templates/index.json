@@ -116,6 +116,7 @@
         ".button--primary {font-weight: bold; width: 260px; padding: 1.2rem 1rem; line-height: 36px;}",
         ".global-media-settings {border: none;}",
         ".image-with-text__content . {min-width: 560px;}",
+        ".image-with-text__media {padding: 0 !important;}",
         "h1 {font-size: 80px; letter-spacing: 0.75px; font-weight: bold; color: rgb(254, 85, 0); line-height: 0px;}",
         "h2 {font-weight: 800; font-size: 135px; line-height: 0px; color: rgb(254, 85, 0);}",
         "p {color: #000; -webkit-text-stroke: 1px #fff; font-size: 20px;}",
