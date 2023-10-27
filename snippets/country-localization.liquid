@@ -19,9 +19,7 @@
       {{ localization.country.currency.symbol }} | {{ localization.country.name -}}
     </span>
     -->
-    <span style="border: 1px">
-      {{ localization.country | image_url: width: 20 | image_tag }}
-    </span>&nbsp;
+    {{ localization.country | image_url: width: 20 | image_tag }}
     <span>
       {{ localization.country.name -}}
     </span>
