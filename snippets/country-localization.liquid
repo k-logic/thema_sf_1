@@ -42,10 +42,9 @@
               {{ country.currency.symbol }} |</span
             >
             -->
-            <span style="vertical-align: middle">
-              {{ country | image_url: width: 20 | image_tag }}
+            <span style="display: flex; align-items: center; column-gap: 7px; white-space: nowrap;">
+              {{ country | image_url: width: 20 | image_tag }} {{ country.name }}
             </span>
-            {{ country.name }}
           </a>
         </li>
       {%- endfor -%}
