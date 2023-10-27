@@ -19,7 +19,7 @@
       {{ localization.country.currency.symbol }} | {{ localization.country.name -}}
     </span>
     -->
-    <span>
+    <span style="display: flex; align-items: center; column-gap: 7px; white-space: nowrap;">
       {{ localization.country | image_url: width: 20 | image_tag }} {{ localization.country.name -}}
     </span>
     {% render 'icon-caret' %}
