@@ -45,8 +45,8 @@
               {{ country.currency.symbol }} |</span
             >
             -->
-            <span>
-              {{ country | image_url: width: 20, vertical-align: middle | image_tag }}
+            <span style="vertical-align: middle">
+              {{ country | image_url: width: 20 | image_tag }}
             </span>
             {{ country.name }}
           </a>
