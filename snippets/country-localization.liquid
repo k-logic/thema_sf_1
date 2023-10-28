@@ -20,7 +20,7 @@
     </span>
     -->
     <span style="display: flex; align-items: center; column-gap: 7px; white-space: nowrap;">
-      {{ localization.country | image_url: width: 20 | image_tag }} {{ localization.country.name -}}
+      {{ localization.country | image_url: width: 20 | image_tag }} {{ localization.country.iso_code -}}
     </span>
     {% render 'icon-caret' %}
   </button>
