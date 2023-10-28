@@ -24,7 +24,7 @@
     </span>
     {% render 'icon-caret' %}
   </button>
-  <div class="disclosure__list-wrapper" hidden>
+  <div class="disclosure__list-wrapper" style="background-color: #fff" hidden>
     <ul id="{{ localPosition }}List" role="list" class="disclosure__list list-unstyled">
       {%- for country in localization.available_countries -%}
         <li class="disclosure__item" tabindex="-1">
