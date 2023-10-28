@@ -7,7 +7,6 @@
     "header": {
       "custom_css": [
         ".header {font-family: monospace; font-weight: bold;}",
-        ".header__icons {white-space: nowrap; width: 370px;}",
         ".header__inline-menu {text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, -1px 1px 0 #fff, 1px -1px 0 #fff, 0px 1px 0 #fff, 0-1px 0 #fff, -1px 0 0 #fff, 1px 0 0 #fff;}",
         ".h2 {font-weight: bold; color: #c14d58;}",
         ".disclosure__button[aria-controls=\"HeaderCountryList\"] {background-color: #fff; margin-left: 10px; border-radius: 4px;}"
