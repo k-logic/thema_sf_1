@@ -202,14 +202,14 @@
         "template--21144367268162__e5e54f5e-9081-4b37-a69b-8a85bdffaaa2-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>TokyoMeal Mission<\/strong><\/em>",
+            "heading": "<em><strong>TokyoMealMe Mission<\/strong><\/em>",
             "heading_size": "h1"
           }
         },
         "a17d895f-7f1e-4335-8958-f81fc8661b67": {
           "type": "text",
           "settings": {
-            "text": "<strong>We don’t want to just share the coolest and craziest Japanese snacks and candy every month -we want to give you a taste of modern life in Japan!<\/strong>",
+            "text": "<strong>どこよりも安く日本の美味しいお菓子を届けたい！私たちはリーズナブルな価格で本物の日本のお菓子を現地から送らせていただきます！<\/strong>",
             "text_style": "body"
           }
         }
@@ -228,6 +228,7 @@
         "img {display: block; width: 100%; height: auto; object-fit: initial; text-align: center; min-height: 848px;}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mission-bg-desktop.e5a8c740.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -288,14 +289,14 @@
         "template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "",
+            "heading_size": "h0"
           }
         },
         "template--21144367268162__0d52df3c-a0d2-4f4c-a151-e2b6ed93a578-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/h3><h3><\/h3><h3>product, make announcements, or welcome customers to your store.<\/h3><h3><\/h3>"
+            "text": "<h3>.<\/h3><h3>.<\/h3><h3>.<\/h3><h3>.<\/h3><h3>.<\/h3><h3><\/h3><h3>.<\/h3><h3><\/h3><h3><\/h3><h3><\/h3><h3><\/h3><h3><\/h3><h3><\/h3><h3><\/h3>"
           }
         }
       },
@@ -307,6 +308,7 @@
 
       ],
       "settings": {
+        "bg_image": "shopify:\/\/shop_images\/products_bg_top.png",
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "scheme-f67772bd-f796-423c-877c-acbbc80763d4",
