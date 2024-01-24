@@ -67,7 +67,6 @@
         "@media screen and (max-width: 999px) {.banner__box {margin-left: 0px; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/present_bg_2x_3.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-left",
@@ -122,7 +121,7 @@
         "@media screen and (max-width: 999px) {.image-with-text {display: none; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
+        "image": "shopify:\/\/shop_images\/istockphoto-1213619520-2048x2048.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -184,7 +183,6 @@
         "@media screen and (min-width: 1000px) {.image-with-text {display: none; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -230,7 +228,6 @@
         "img {display: block; width: 100%; height: auto; object-fit: initial; text-align: center; min-height: 848px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mission-bg-desktop.e5a8c740.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -273,8 +270,6 @@
         "@media screen and (min-width: 1000px) {.banner {display: none; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mission-bg-top-mobile_1.webp",
-        "image_2": "shopify:\/\/shop_images\/mission-bg-bottom-mobile.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -312,7 +307,6 @@
 
       ],
       "settings": {
-        "bg_image": "shopify:\/\/shop_images\/products_bg_top.png",
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "scheme-f67772bd-f796-423c-877c-acbbc80763d4",
@@ -350,7 +344,6 @@
         ".image-with-text__media {border: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Flag_of_Japan_svg.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -402,7 +395,6 @@
         ".image-with-text__media {background: none;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/japanese_ojisan.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -439,7 +431,6 @@
       ],
       "disabled": true,
       "settings": {
-        "bg_image": "shopify:\/\/shop_images\/pxfuel.jpg",
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "inverse",
@@ -455,7 +446,6 @@
         "heading_size": "h1",
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=warqZK6IOlA&ab_channel=%E3%82%AA%E3%83%BC%E3%82%A4%E3%82%B7%E5%8A%A0%E8%97%A4%E3%81%AE%E3%83%94%E3%82%B6%E3%83%A9%E3%82%B8%E3%82%AA",
-        "cover_image": "shopify:\/\/shop_images\/image2.jpg",
         "description": "",
         "full_width": false,
         "color_scheme": "scheme-f67772bd-f796-423c-877c-acbbc80763d4",
@@ -469,7 +459,6 @@
         "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or <\/p>",
             "link_label": "",
@@ -479,7 +468,6 @@
         "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or <\/p>",
             "link_label": "",
@@ -489,7 +477,6 @@
         "template--21144367268162__02bb7684-2ee5-4191-a619-9c542a5ebe12-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/240_F_387279368_wSOUUbeyrkvEeDt7CayNdB7gmr6j4A4r.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or <\/p>",
             "link_label": "",
