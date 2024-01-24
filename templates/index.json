@@ -121,7 +121,7 @@
         "@media screen and (max-width: 999px) {.image-with-text {display: none; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/common-logo.png",
+        "image": "shopify:\/\/shop_images\/TokyoSnackBox.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
