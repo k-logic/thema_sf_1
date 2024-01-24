@@ -271,6 +271,8 @@
         "@media screen and (min-width: 1000px) {.banner {display: none; }}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mission-bg-top-mobile.webp",
+        "image_2": "shopify:\/\/shop_images\/mission-bg-bottom-mobile.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
