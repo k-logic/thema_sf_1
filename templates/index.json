@@ -169,7 +169,7 @@
           "type": "button",
           "settings": {
             "button_label": "SUBSCRIBE 👍",
-            "button_link": "shopify:\/\/products\/umami-snack-box",
+            "button_link": "shopify:\/\/products\/japanese-snacks-box",
             "button_style_secondary": false
           }
         }
@@ -183,6 +183,7 @@
         "@media screen and (min-width: 1000px) {.image-with-text {display: none; }}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/common-logo.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
